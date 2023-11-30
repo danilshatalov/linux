@@ -79,4 +79,6 @@ ___
 
 ## Диаграмма классов Pets и Pack animals
 
+![Image alt](https://github.com/danilshatalov/linux/blob/main/diagram.jpg)
+
 
