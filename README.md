@@ -75,3 +75,8 @@ vivaldi-stable
 # Удаление 
 sudo dpkg -r vivaldi-stable
 ```
+___
+
+## Диаграмма классов Pets и Pack animals
+
+
